@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">RecyclerViewColorsK</string>
-    <string name="roll">Roll</string>
+    <string name="template">#%1$08x</string>
 </resources>
